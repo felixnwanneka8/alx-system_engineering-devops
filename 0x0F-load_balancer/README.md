@@ -1,2 +1,1 @@
-### 0x0F. Load balancer
-creating readme file
+This is project 0x0F. Load balancer
